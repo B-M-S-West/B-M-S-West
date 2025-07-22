@@ -9,7 +9,7 @@ I'm an experienced Data Scientist and former senior education leader, passionate
 
 🔍 **What drives me?** 
 
-Leveraging data, technology, and AI to solve challenging, real-world problems—especially where security, efficiency, and innovation are critical.
+Leveraging data, technology, and AI to solve challenging, real-world problems. Especially where security, efficiency, and innovation are critical.
 
 ---
 ## 🛠️ Technical Toolbox
@@ -21,7 +21,7 @@ Leveraging data, technology, and AI to solve challenging, real-world problems—
 - **Visualisation:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Bokeh, Excel
 - **Cloud/DevOps:** Azure, AWS, Docker Compose, Git, CI/CD, Portainer, SSH
 - **Databases:** PostgreSQL, Elasticsearch, OpenSearch, ChromaDB, Airtable
-- **Other:** APIs (integration & automation), Postman, Microsoft 365, Power Automate, SharePoint
+- **Other:** APIs (integration & automation), Postman, n8n, Microsoft 365, Power Automate, SharePoint
 ---
 ## 🏆 Recent Experience
 
