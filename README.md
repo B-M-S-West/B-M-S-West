@@ -7,9 +7,10 @@
 
 I'm an experienced Data Scientist and former senior education leader, passionate about building impactful machine learning solutions for complex, high-stakes environments (intelligence, defence, and secure sectors). I specialise in developing and deploying ML models for edge computing, digital transformation, and technical leadership. 
 
-🔍 **What drives me?**  
+🔍 **What drives me?** 
 
 Leveraging data, technology, and AI to solve challenging, real-world problems—especially where security, efficiency, and innovation are critical.
+
 ---
 ## 🛠️ Technical Toolbox
 - **Languages:** Python, SQL
